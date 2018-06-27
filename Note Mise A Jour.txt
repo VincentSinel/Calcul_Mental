@@ -1,0 +1,35 @@
+╔═══════════════════════════════════════════╗
+║ Calcul Mental                   V0.8      ║
+║ Sinel V.  2018                            ║
+╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 0.8  ║
+╠═══════════════════════════════╝
+║
+║	- Possibilité de créer des Calculs mentaux Fixe (textuel ou à partir d'une image script à venir)
+║	- Possibilité de créer des Calculs mentaux Aléatoire Générer à partir d'un script
+║	- Possibilité de Projecter le calcul mental en plein ecran avec des temps préprogrammer et avec affichage de la correction
+║	- Génération de dossier spécifique au CM pour integrer des images
+║	- Mise à jour automatiques
+║
+╠═══════════════════════════════╗
+║Version antérieur non publié   ║
+╠═══════════════════════════════╝
+╠════════════════════════════════╗
+║A Venir  (Fix et nouveautes) :  ║
+╠════════════════════════════════╝
+║
+║	- Option d'affichage plus poussée (couleur, police d'écriture)
+║	- Parametrage plus important de la position des éléments d'affichages
+║
+║	- SCRIPT :
+║	- Script permettant de generer des questions avec des éléments graphiques
+║	- Script plus pousser pour creer des Calculs mentaux aléatoire (Fonction de calcul suplémentaire, Condition, )
+║	- Aide pour la creation de script (Documentation et détection de bug)
+║	- Indication d'erreur plus explicite
+║
+╠═════════════════════════════╗
+║Contact :                    ║
+║    Sinel Vincent            ║
+║vsprogramme.contact@gmail.com║
+╚═════════════════════════════╝
