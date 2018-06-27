@@ -11,7 +11,7 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 * [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour les différent outils Xaml
 * [Avalon](https://github.com/icsharpcode/AvalonEdit) - Pour l'éditeur de script
 * [Wpf Math](https://github.com/ForNeVeR/wpf-math) - Pour l'interpreteur Latex
-* [ItsAllAboutTheXaml](https://itsallaboutthexaml.blogspot.com/) - Pour des élèments Xaml
+* [ItsAllAboutTheXaml](https://itsallaboutthexaml.blogspot.com/) - Pour des éléments Xaml
 * [ITextSharp](https://github.com/itext/itextsharp) - Pour l'exportation PDF (Non encore présent)
 
 ## Version
