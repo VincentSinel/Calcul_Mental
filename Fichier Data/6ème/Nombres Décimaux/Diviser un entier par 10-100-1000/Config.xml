@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Diviser un entier par 10-100-1000" />
+  <Sujet Value="1" />
+  <SousTitre Value="#Formule 35:100" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant :&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Diviseur&quot; Type=&quot;Tableau&quot; Valeur=&quot;[10,100,1000]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Aleatoire&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,1000]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Resultat&quot; Type=&quot;Calcul&quot; Valeur=&quot;Aleatoire/Diviseur&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Formule Formule=&quot;Aleatoire : Diviseur&quot; FormuleCorrection=&quot;Aleatoire : Diviseur = Resultat&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-13T08:42:08.8707289+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/6ème\Nombres Décimaux" />
+  <Version Value="1.0" />
+</DATA>

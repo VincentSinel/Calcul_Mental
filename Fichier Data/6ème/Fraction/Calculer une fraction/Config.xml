@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Calculer une fraction" />
+  <Sujet Value="4" />
+  <SousTitre Value="#Formule \frac{3}{2}=?" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant :&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Denominateur&quot; Type=&quot;Tableau&quot; Valeur=&quot;[1,1,2,2,3,4,4,10,10]&quot;/&gt;&#xD;&#xA;&lt;If Condition=&quot;Denominateur == 1&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,100]&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Denominateur == 2&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,20]&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Denominateur == 3&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur&quot; Type=&quot;Tableau&quot; Valeur=&quot;[3,6,9]&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Denominateur == 4&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,8]&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Denominateur == 10&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,9]&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Resultat&quot; Type=&quot;Calcul&quot; Valeur=&quot;Numerateur/Denominateur&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Formule Formule=&quot;\frac{Numerateur}{Denominateur}&quot; FormuleCorrection=&quot;Resultat&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-22T22:57:43.376473+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/6ème\Fraction" />
+  <Version Value="1.0" />
+</DATA>

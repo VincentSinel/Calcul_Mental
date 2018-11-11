@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Division à quotient décimal" />
+  <Sujet Value="1" />
+  <SousTitre Value="#Formule 19 : 2" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Type&quot; Type=&quot;Tableau&quot; Valeur=&quot;[0,0,0,0,1,1,2]&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;If Condition=&quot;Type == 0&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Entier1&quot; Type=&quot;Tableau&quot; Valeur=&quot;[2,4,10]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Entier2&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,15]&quot; Param=&quot;(Entier2 % Entier1) != 0&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Type == 1&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Entier1&quot; Type=&quot;Texte&quot; Valeur=&quot;100&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Entier2&quot; Type=&quot;Entier&quot; Valeur=&quot;[10,99]&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Type == 2&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Entier2&quot; Type=&quot;Entier&quot; Valeur=&quot;[3,15]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Entier1&quot; Type=&quot;Calcul&quot; Valeur=&quot;2*Entier2&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;EntierR&quot; Type=&quot;Calcul&quot; Valeur=&quot;Entier2/Entier1&quot;/&gt;&#xD;&#xA;&lt;Formule Formule=&quot;Entier2 : Entier1&quot; FormuleCorrection=&quot;EntierR&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-24T14:19:11.3008053+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/5ème\Calcul" />
+  <Version Value="1.0" />
+</DATA>

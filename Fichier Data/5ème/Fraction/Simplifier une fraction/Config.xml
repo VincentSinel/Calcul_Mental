@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Simplifier une fraction" />
+  <Sujet Value="1" />
+  <SousTitre Value="#Formule \frac{21}{12}=?" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant :&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,9]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Denominateur&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,9]&quot; Param=&quot;$pgcd(Numerateur,Denominateur) == 1&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Coef&quot; Type=&quot;Entier&quot; Valeur=&quot;[2,9]&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;NumerateurQ&quot; Type=&quot;Calcul&quot; Valeur=&quot;Numerateur*Coef&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;DenominateurQ&quot; Type=&quot;Calcul&quot; Valeur=&quot;Denominateur*Coef&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Resultat&quot; Type=&quot;Texte&quot; Valeur=&quot;\frac{Numerateur}{Denominateur}&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;If Condition=&quot;Denominateur == 1&quot;/&gt;&#xD;&#xA;&#x9;&lt;Variable Nom=&quot;Resultat&quot; Type=&quot;Texte&quot; Valeur=&quot;Resultat=Numerateur&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Formule Formule=&quot;\frac{NumerateurQ}{DenominateurQ}&quot; FormuleCorrection=&quot;\frac{NumerateurQ}{DenominateurQ}=Resultat&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-13T14:35:42.5483418+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/6ème\Fraction" />
+  <Version Value="1.0" />
+</DATA>

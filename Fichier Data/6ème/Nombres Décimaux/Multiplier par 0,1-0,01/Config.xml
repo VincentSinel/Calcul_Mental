@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Multiplier par 0,1-0,01" />
+  <Sujet Value="1" />
+  <SousTitre Value="#Formule 105\times0,01=?" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant :&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;MultipleE&quot; Type=&quot;Tableau&quot; Valeur=&quot;[10,100]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;MultipleD&quot; Type=&quot;Calcul&quot; Valeur=&quot;1/MultipleE&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Coef&quot; Type=&quot;Tableau&quot; Valeur=&quot;[10,100]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Aleatoire&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,1000]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;AleatoireDecimal&quot; Type=&quot;Calcul&quot; Valeur=&quot;Aleatoire/Coef&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Resultat&quot; Type=&quot;Calcul&quot; Valeur=&quot;Aleatoire/(Coef*MultipleE)&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Formule Formule=&quot;AleatoireDecimal \times MultipleD&quot; FormuleCorrection=&quot;AleatoireDecimal \times MultipleD = Resultat&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-13T08:37:49.1953299+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/6ème\Nombres Décimaux" />
+  <Version Value="1.0" />
+</DATA>

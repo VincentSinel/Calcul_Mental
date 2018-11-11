@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Multiplier-Diviser par 10 ou par 100" />
+  <Sujet Value="1" />
+  <SousTitre Value="#Formule 195\times100" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="1" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant :&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Nombre1&quot; Type=&quot;Entier&quot; Valeur=&quot;[10,1000]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Coef1&quot; Type=&quot;Tableau&quot; Valeur=&quot;[10,100]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Coef2&quot; Type=&quot;Tableau&quot; Valeur=&quot;[1,1,10,10,10,100]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Position&quot; Type=&quot;Entier&quot; Valeur=&quot;[0,1]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Operateur&quot; Type=&quot;Calcul&quot; Valeur=&quot;QuestionID%2&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;If Condition=&quot;Operateur == 0&quot;/&gt;&#xD;&#xA;&#x9;&lt;If Condition=&quot;Position==0&quot;/&gt;&#xD;&#xA;&#x9;&#x9;&lt;Variable Nom=&quot;FormuleF&quot; Type=&quot;Texte&quot; Valeur=&quot;Nombre1 \times Coef1&quot;/&gt;&#xD;&#xA;&#x9;&lt;EndIf/&gt;&#xD;&#xA;&#x9;&lt;If Condition=&quot;Position==1&quot;/&gt;&#xD;&#xA;&#x9;&#x9;&lt;Variable Nom=&quot;FormuleF&quot; Type=&quot;Texte&quot; Valeur=&quot;Coef1 \times Nombre1&quot;/&gt;&#xD;&#xA;&#x9;&lt;EndIf/&gt;&#xD;&#xA;&#x9;&lt;Variable Nom=&quot;Correction&quot; Type=&quot;Calcul&quot; Valeur=&quot;Coef1 * Nombre1&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Operateur == 1&quot;/&gt;&#xD;&#xA;&#x9;&lt;Variable Nom=&quot;Nombre2&quot; Type=&quot;Calcul&quot; Valeur=&quot;Nombre1*Coef1*Coef2&quot;/&gt;&#xD;&#xA;&#x9;&#x9;&lt;Variable Nom=&quot;FormuleF&quot; Type=&quot;Texte&quot; Valeur=&quot;Nombre2 : Coef1&quot;/&gt;&#xD;&#xA;&#x9;&lt;Variable Nom=&quot;Correction&quot; Type=&quot;Calcul&quot; Valeur=&quot;Nombre2 / Coef1&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Formule Formule=&quot;FormuleF&quot; FormuleCorrection=&quot;FormuleF = Correction&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-10T13:25:15.4901389+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/6ème\Nombres Entier" />
+  <Version Value="1.0" />
+</DATA>

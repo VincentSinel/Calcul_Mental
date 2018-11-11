@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question Description="Multiplication par 100" ID="0" Temp="1">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="0,14\times100" Easy="0,14*100" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="0,48\times100" Easy="0,48*100" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Tables de multiplication" ID="0" Temp="1">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="4\times7" Easy="4*7" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="6\times8" Easy="6*8" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Tables de multiplications" ID="0" Temp="1">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="9\times8" Easy="9*8" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="8\times8" Easy="8*8" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Division par 10" ID="0" Temp="1">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="45:10" Easy="45:10" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="67:10" Easy="67:10" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Multiplication par 0.01" ID="0" Temp="1">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="95\times0.01" Easy="95*0.01" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="0.01\times83" Easy="0.01*83" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Appartenance" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Image" Sujet="0" Texte="X .... [OA]" Name="Appartenance.png" />
+      <Content Type="Image" Sujet="1" Texte="L .... [VA)" Name="Appartenance.png" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Appartenance" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Image" Sujet="0" Texte="O ... (NV]" Name="Appartenance.png" />
+      <Content Type="Image" Sujet="1" Texte="B ... [AX]" Name="Appartenance.png" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Abscisse" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Image" Sujet="0" Texte="Quel est l'abscisse du point A ?" Name="Axe 2_10.png" />
+      <Content Type="Image" Sujet="1" Texte="Quel est l'abscisse du point A ?" Name="Axe 2_10_4.png" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Abscisse" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Image" Sujet="0" Texte="Quel est l'abscisse du point A ?" Name="Axe 2_10_2.png" />
+      <Content Type="Image" Sujet="1" Texte="Quel est l'abscisse du point A ?" Name="Axe 2_10_3.png" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Comparaison" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Completer avec le bon symbole :" Latex="0,490 ...... 0,489" Easy="0,490 ...... 0,489" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Completer avec le bon symbole :" Latex="1,56......1,558" Easy="1,56......1,558" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+</Questions>

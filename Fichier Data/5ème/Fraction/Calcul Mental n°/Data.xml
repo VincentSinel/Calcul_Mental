@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question Description="&lt;sdzerazrazeazez" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="hhgtguijiodvsdf" Latex=" \sum_{i=0}^n  \int_{a}^b  \dagger  \ddagger  \bigtriangleup  \mp  \odot  \otimes  \sqcup  \oplus  \wp  \Im  \Re  \varpi   \Xi \frac{1}{4}+3\times65+54" Easy="1/4+3*65+54" Scale="39" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="55" />
+    </Corrections>
+  </Question>
+  <Question Description="" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="" Easy="" Scale="39"  />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+</Questions>

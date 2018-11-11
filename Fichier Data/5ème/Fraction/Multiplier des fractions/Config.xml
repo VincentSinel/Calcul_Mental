@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Multiplier des fractions" />
+  <Sujet Value="1" />
+  <SousTitre Value="#Formule \frac{3}{5}\times\frac{2}{7}" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectue le calcul suivant&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur1&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,10]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateur2&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,11]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Denominateur1&quot; Type=&quot;Entier&quot; Valeur=&quot;[2,10]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Denominateur2&quot; Type=&quot;Entier&quot; Valeur=&quot;[2,10]&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateurc&quot; Type=&quot;Calcul&quot; Valeur=&quot;Numerateur1*Numerateur2&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Denominateurc&quot; Type=&quot;Calcul&quot; Valeur=&quot;Denominateur1*Denominateur2&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;VarPGCD&quot; Type=&quot;Calcul&quot; Valeur=&quot;$pgcd(Numerateurc, Denominateurc)&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Numerateurd&quot; Type=&quot;Calcul&quot; Valeur=&quot;Numerateurc / VarPGCD&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Denominateurd&quot; Type=&quot;Calcul&quot; Valeur=&quot;Denominateurc / VarPGCD&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Formule1&quot; Type=&quot;Texte&quot; Valeur=&quot;\frac{Numerateurc}{Denominateurc}&quot;/&gt;&#xD;&#xA;&lt;If Condition=&quot;Denominateurd != 1 &amp;&amp; Denominateurd != Denominateurc&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Formule1&quot; Type=&quot;Texte&quot; Valeur=&quot;Formule1=\frac{Numerateurd}{Denominateurd}&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;If Condition=&quot;Denominateurd==1&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Formule1&quot; Type=&quot;Texte&quot; Valeur=&quot;Formule1=Numerateurd&quot;/&gt;&#xD;&#xA;&lt;EndIf/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Formule&quot; Type=&quot;Texte&quot; Valeur=&quot;\frac{Numerateur1}{Denominateur1}\times\frac{Numerateur2}{Denominateur2}&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Formule Formule=&quot;Formule&quot; FormuleCorrection=&quot;Formule=Formule1&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-24T15:19:05.9316003+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/5ème\Fraction" />
+  <Version Value="1.0" />
+</DATA>

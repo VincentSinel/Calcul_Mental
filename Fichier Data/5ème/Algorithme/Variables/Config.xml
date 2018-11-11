@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Variables" />
+  <Sujet Value="4" />
+  <SousTitre Value="Calcul Mental n°" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant :&quot; Nbr=&quot;10&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;ImageID&quot; Type=&quot;Entier&quot; Valeur=&quot;[1,50]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;ID&quot; Type=&quot;Calcul&quot; Valeur=&quot;ImageID-1&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;ImageName&quot; Type=&quot;Texte&quot; Valeur=&quot;Img_ImageID.png&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Correction&quot; Type=&quot;TableauIndex&quot; Valeur=&quot;[10,25,12,13,2,0,0,0,0,0,53,73,17,95,156,20,64,88,35,10,54,78,25,90,900,9,60,600,6,100,1000,10,60,600,6,80,800,8,100,1000,10,25,73,64,45,50,70,90,100,U]&quot; Param=&quot;ID&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Image Nom=&quot;ImageName&quot;/&gt;&#xD;&#xA;&lt;Texte TexteCorrection=&quot;Correction&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-09-23T14:36:46.7183823+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/5ème\Algorithme" />
+  <Version Value="1.0" />
+</DATA>

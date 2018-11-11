@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question Description="Divisibilité par 3" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Répondre à la question suivantes :" Latex="\frac{1}{4}+3" Easy="1/4+3" Scale="20" />
+      <Content Type="Image" Sujet="1" Texte="Répondre à la question suivantes :" Name="Div2.png" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Divisibilité par 2" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Image" Sujet="0" Texte="Répondre à la question suivantes :" Name="Div3.png" />
+      <Content Type="Image" Sujet="1" Texte="Répondre à la question suivantes :" Name="Div4.png" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Pythagore direct" ID="0" Temp="30">
+    <Contents>
+      <Content Type="Image" Sujet="0" Texte="Effectuer le calcul suivant :" Name="Pyt1.png" />
+      <Content Type="Image" Sujet="1" Texte="Effectuer le calcul suivant :" Name="Pyt2.png" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Pythagore indirect" ID="0" Temp="30">
+    <Contents>
+      <Content Type="Image" Sujet="0" Texte="Effectuer le calcul suivant :" Name="Pyt3.png" />
+      <Content Type="Image" Sujet="1" Texte="Effectuer le calcul suivant :" Name="Pyt4.png" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Carré parfait" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="14^2" Easy="14²" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="12^2" Easy="12²" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Carré Parfait" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="13^2" Easy="13²" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="15^2" Easy="15²" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Racine carrée" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\sqrt{81}" Easy="\sqrt{81}" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\sqrt{64}" Easy="\sqrt{64}" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Racine carrée" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\sqrt{144}" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\sqrt{121}" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Somme algébrique" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="-5+12-2" Easy="-5+12-2" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="-7+13-4" Easy="-7+13-4" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+  <Question Description="Somme algébrique" ID="0" Temp="20">
+    <Contents>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="3-6-7" Easy="3-6-7" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="2-9-14" Easy="2-9-14" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Contents>
+    <Corrections>
+      <Content Type="Calcul" Sujet="0" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="1" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="2" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+      <Content Type="Calcul" Sujet="3" Texte="Effectuer le calcul suivant :" Latex="\frac{1}{4} + 3" Easy="1/4+3" Scale="22" />
+    </Corrections>
+  </Question>
+</Questions>

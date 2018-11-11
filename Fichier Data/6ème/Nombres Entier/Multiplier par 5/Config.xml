@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+  <Nom Value="Multiplier par 5" />
+  <Sujet Value="2" />
+  <SousTitre Value="#Formule 24\times5" />
+  <TexteFin Value="C'est Terminé" />
+  <VisibilitéTemps Value="true" />
+  <IndicateurTemps Value="0" />
+  <Decompte Value="true" />
+  <Correction Value="true" />
+  <Script Value="&lt;Question Texte=&quot;Effectuer le calcul suivant :&quot; Nbr=&quot;Auto&quot; Temps=&quot;Auto&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Variable Nom=&quot;Aleatoire&quot; Type=&quot;Entier&quot; Valeur=&quot;[20,90]&quot;/&gt;&#xD;&#xA;&lt;Variable Nom=&quot;Resultat&quot; Type=&quot;Calcul&quot; Valeur=&quot;Aleatoire*5&quot;/&gt;&#xD;&#xA;&#xD;&#xA;&lt;Formule Formule=&quot;Aleatoire \times 5&quot; FormuleCorrection=&quot;Resultat&quot;/&gt;" />
+  <Scripted Value="true" />
+  <Update Value="2018-10-21T19:17:11.7551543+02:00" />
+  <Auteur Value="" />
+  <Path_Base Value="Fichier Data/6ème\Nombres Entier" />
+  <Version Value="1.0" />
+</DATA>
