@@ -1,18 +1,25 @@
-# Calcul_Mental <a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
+# CalculMental<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Logiciel permettant de créer et lancer des calculs mentaux temporiser fixe ou aléatoire
+Ce logiciel permet de créer des calculs mentaux automatisé et vidéoprojetable.
+Il dispose de deux interface de création : 
+	- La création de CM question par question permettant de créer des CM fixe.
+	- La création de CM autogénerer et aléatoire permettant de créer des CM Aléatoires à chaque execution.
+Pour ce faire le logiciel contient une interface de programmation et d'édition afin de créer vos CM personnel ainsi qu'une banque de CM aléatoire déjà inclus.
+
+Un exemple de chaque type de creation est disponible en image.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clè USB
+Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clé USB
 
 ## Librairie
 
-* [Wpf Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour les différent outils Xaml
-* [Avalon](https://github.com/icsharpcode/AvalonEdit) - Pour l'éditeur de script
-* [Wpf Math](https://github.com/ForNeVeR/wpf-math) - Pour l'interpreteur Latex
-* [ItsAllAboutTheXaml](https://itsallaboutthexaml.blogspot.com/) - Pour des éléments Xaml
-* [ITextSharp](https://github.com/itext/itextsharp) - Pour l'exportation PDF (Non encore présent)
+* [ExpressionsEval](https://www.codeproject.com/articles/9114/math-function-boolean-string-expression-evaluator) - Pour le calcul d'expressions à partir d'un texte
+* [IronPython](https://github.com/IronLanguages/ironpython2) - Pour les script en python
+* [AutoUpdater.Net](https://github.com/ravibpatel/AutoUpdater.NET) - Pour la mise à jour automatique
+* [Xceed Toolkit](https://github.com/xceedsoftware/wpftoolkit) - Pour certain outils XAML
+* [ItsAllAboutTheXaml](https://itsallaboutthexaml.blogspot.com/) - Pour des éléments XAML
+* [WPF-Math](https://github.com/ForNeVeR/wpf-math) - Pour l'affichage de formule latex
 
 ## Version
 
