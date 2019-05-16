@@ -1,15 +1,17 @@
 ╔═══════════════════════════════════════════╗
-║ Calcul Mental                   V1.2      ║
+║ Calcul Mental                   V0.9      ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
 ╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 1.0  ║
+║Derniere Mise a jour : V. 0.9  ║
 ╠═══════════════════════════════╝
 ║
 ║	- Modification du systeme de script. Ajout de plusieur nouvelle fonctionnalité
 ║	- Correction de nombreux bugs
 ║	- Menu principale revue et modifier.
 ║	- Ajout de plus de paramétrage.
+║	- Ajout de la création de figure.
+║	- Ajout d'éléments à la base de donnée.
 ║	- Debut de base de donné basé sur les calculs mentaux proposé par mathoux matheu.
 ║
 ╠═══════════════════════════════╗
