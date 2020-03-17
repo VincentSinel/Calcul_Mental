@@ -1,16 +1,16 @@
 # CalculMental<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Ce logiciel permet de créer des calculs mentaux automatisé et vidéoprojetable.
-Il dispose de deux interface de création : 
-	- La création de CM question par question permettant de créer des CM fixe.
-	- La création de CM autogénerer et aléatoire permettant de créer des CM Aléatoires à chaque execution.
-Pour ce faire le logiciel contient une interface de programmation et d'édition afin de créer vos CM personnel ainsi qu'une banque de CM aléatoire déjà inclus.
+Ce logiciel permet de créer des calculs mentaux automatisés et vidéoprojetables.
+Il dispose de deux interfaces de création : 
+	- La création de CM question par question permettant de créer des CM fixes.
+	- La création de CM autogénerés et aléatoires permettant de créer des CM aléatoires à chaque exécution.
+Pour ce faire le logiciel contient une interface de programmation et d'édition afin de créer vos CM personnels ainsi qu'une banque de CM aléatoires déjà inclus.
 
-Un exemple de chaque type de creation est disponible en image.
+Un exemple de chaque type de création est disponible en image.
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clé USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
